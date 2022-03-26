@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital@1&family=Open+Sans:wght@500&display=swap');
+
+:root {
+    --primary-color: #fdd835;
+    --secondary-color: #ffccbc;
+}
+
+
+output {
+    width: 90%;
+    height: 10vh;
+    display: block;
+    border: 1px solid blueviolet;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+textarea {
+    width: 90%;
+    height: 10vh;
+    display: block solid;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+header {
+    text-align: center;
+}
